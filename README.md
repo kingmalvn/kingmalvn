@@ -1,93 +1,80 @@
+<h1>Hey There 👋</h1>
 
-
-[![King Malvin](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Malvin+King;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Zimbabwe;Nice+to+Meet+You)](https://github.com/kingmalvn)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/kingmalvn">
+        <img align="center"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Black+Dragon%20+%20Official+..."
+            alt="Typing SVG"
+        />
+    </a>
+</p>                                
+ 
+- 🥰I'm @MGhost. 🥰 That's my second name
+- ⏱️ I joined github 2024
+
+- 👀 I’m interested in bot Development
+
+- 🌱 I’m currently learning coding
+
+- 💞️ I’m looking to collaborate on my bot repo.
+👩‍💻Im a developer & learner
+
+
+![My card name](https://cardivo.vercel.app/api?name=Malvin%20King&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://i.ibb.co/9vnxgVN/Picsart-22-10-19-23-24-15-518.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=malvinking20&github=kingmalvn&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-
-
-![My card name](https://cardivo.vercel.app/api?name=MALVIN%20KING%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/kingmalvn.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=malvinking20&github/kingmalvn&)
+- <h2 align="left">CONTACT US:</h2><p>  <a href="https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/Picsart_22-10-28_23-29-00-872.png" alt="https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ" height="105" width="105" /></a>  <a href="https://instagram.com/mr.amiya.ofc" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/logo-ig-png-32464.png" alt="https://www.instagram.com/mr.amiya.ofc/" height="40" width="40" /></a>  <a href="https://wa.me/message/KZXTUVIGXKKZG1" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/IMG-20221027-WA0009.jpg" alt="https://wa.me/message/KZXTUVIGXKKZG1" height="65" width="95" /></a>  <a href="https://t.me/Mr_Amiya_OFC" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/Telegram_logo.svg.png" alt="https://t.me/Mr_Amiya_OFC" height="40" width="40" /></a> 
 </p>
-<p> <b>Connect With me:</b></p>
-<p>
-<a href="https://t.me/malvinking2"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/malvinking20"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/malvinquotes"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/@m_king_qts"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
-</p>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kingmalvn&label=Visitors%20count&color=10d9c3&style=plastic" alt="MALVIN-TECH" /> </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<p align="center">
+  <a href="https://github.com/TechwithAmee1">
+    <img src="https://komarev.com/ghpvc/?username=TechwithAmee1&label=Profile%200views&color=0000FF&label=Profile+Views&style=plastic">
+</a>
+  <a href="https://github.com/TechwithAmee1?tab=stars">
+    <img src="https://img.shields.io/github/Diegoson?color=0000FF&label=Stars&style=plastic">
+
+  </a>
+  <a href="https://github.com/TechwithAmee1?tab=followers">
+    <img src="https://img.shields.io/github/followers/Diegoson?color=0000FF&label=Followers&style=plastic">
 </br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+- <h2 align="left">MY GITHUB STATUS</h2>
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=TechwithAmee1&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
+  </div>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=TechwithAmee1)
+
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
+![Metrics](https://metrics.lecoq.io/TechwithAmee1?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-</p>
-<br><br>
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=kingmalvn&theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
-      <a href="https://github.com/kingmalvn"><img src="https://github-readme-streak-stats.herokuapp.com?user=kingmalvn&theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="MALVIN" /></a>
-        </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kingmalvn&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" align="center">
-    </td>
-  </tr>
-</table>
-<div align=center>
-  <a href="https://github.com/kingmalvn" title="Malvin">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=kingmalvn&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="MALVIN" />
-    </a>
-</div>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
+</details> 
 
 
 
-  
-Hey there, I'm Malvin King! 👋
-
-I'm a passionate developer who loves to craft immersive experiences on the web. My expertise lies in HTML, and I'm currently delving into the world of JavaScript to bring even more interactivity to my projects.
-
-🚀 Skills & Tools
-
-Languages: HTML, JavaScript
-🌱 What I'm Currently Learning
-
-I'm currently honing my skills in JavaScript, learning about modern frameworks and libraries to create dynamic and responsive web applications.
-
-💬 Let's Collaborate
-
-I'm open to collaborating on projects that involve HTML and JavaScript. If you have an exciting project in mind, feel free to reach out!: ...
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-
-
-<h3>Some of my Projects:</h3>
-
-<a href="https://github.com/kingmalvn/Malvin-bug-bot">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingmalvn&repo=Malvin-bug-bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/kingmalvn/Mk-bot">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingmalvn&repo=MK-bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-
-
-<br>
-
-[![My stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kingmalvn)
-<br>
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="MALVIN" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechwithAmee1&show_icons=true&theme=dark&locale=en&layout=compact" alt="TechwithAmee1" /></p>
+
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TechwithAmee1&show_icons=true&theme=dark&locale=en" alt="TechwithAmee1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TechwithAmee1&theme=dark" alt="TechwithAmee1" /></p>
 </p>
 
+</div>
+ 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
