@@ -36,7 +36,7 @@
     <img src="https://komarev.com/ghpvc/?username=kingmalvn&label=Profile%200views&color=0000FF&label=Profile+Views&style=plastic">
 </a>
   <a href="https://github.com/kingmalvn?tab=stars">
-    <img src="https://img.shields.io/github/kingmalvn?color=0000FF&label=Stars&style=plastic">
+    <img src="https://img.shields.io/github/stars/kingmalvn?color=0000FF&label=Stars&style=plastic">
 </a>
   <a href="https://github.com/kingmalvn?tab=followers">
     <img src="https://img.shields.io/github/followers/kingmalvn?color=0000FF&label=Followers&style=plastic">
@@ -59,14 +59,14 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/kingmalvn?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/kingmalvn?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Africa%2FZimbabwe)
 
 </details> 
 
 
 
 <p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingmalvn&show_icons=true&theme=dark&locale=en&layout=compact" alt="TechwithAmee1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingmalvn&show_icons=true&theme=dark&locale=en&layout=compact" alt="kingmalvn" /></p>
 
 <p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kingmalvn&show_icons=true&theme=dark&locale=en" alt="kingmalvn" /></p>
