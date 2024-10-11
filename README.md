@@ -23,7 +23,7 @@
 👩‍💻Im a developer & learner
 
 
-![My card name](https://cardivo.vercel.app/api?name=Malvin%20King&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://github.com/kingmalvn.png/Picsart-22-10-19-23-24-15-518.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=malvinking20&github=kingmalvn&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Malvin%20King&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://telegra.ph/file/dc73e16b9988c7c56b56f.jpg/Picsart-22-10-19-23-24-15-518.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=malvinking20&github=kingmalvn&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
